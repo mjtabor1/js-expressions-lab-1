@@ -56,8 +56,8 @@ const tot_temperature_in_celsius = (day2TempC + day4TempC + day6TempC + day8Temp
 //! Start the calculation of the average temperatures
 //* Call the variables: avg_temperature_in_fahrenheit and avg_temperature_in_celsius
 
-const avg_temperature_in_fahrenheit = tot_temperature_in_fahrenheit/15
-const avg_temperature_in_celsius = tot_temperature_in_celsius/15
+const avg_temperature_in_fahrenheit = tot_temperature_in_fahrenheit/30
+const avg_temperature_in_celsius = tot_temperature_in_celsius/30
 //! Console.log the results for your own inspection if you'd like
 
 //! After creating the four variables mentioned above, uncomment the following lines
